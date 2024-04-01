@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+h1 {
+	text-align:center;
+}
+
+h3 {
+	
+	text-weighted:500;
+}
+
+ol {
+	border:solid;
+	border-color:red;
+}
+
+ul {
+	padding:10px;
+}
+
+a:hover {
+  background-color: yellow;
+  text-decoration:underline;
+}
