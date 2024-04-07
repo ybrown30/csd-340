@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+h1 {
+	
+	text-align:center;
+}
+
+.image-item {
+  float: left;
+  width: 33.33%;
+ 
+  
+}
+
+/* Clear floats after the columns */
+.image-gallery:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#image-gallery {
+	
+	margin-top: 10%;
+	
+	
+}
+
+h3 {
+	text-align:center;
+}
+
+figure{
+	text-align:center;
+}
+
+.caption {
+	text-align:center;
+}
+
+.figcaption {
+	font-style:italic;
+	font-size:.75em;
+}
